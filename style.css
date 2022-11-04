@@ -12,7 +12,7 @@ body {
 }
 
 .alert {
-    background-color: #a86d00; /* Red */
+    background-color: #a86d00;
     color: white;
     margin-bottom: 15px;
   }
@@ -84,7 +84,7 @@ h1 {
     padding-top: 30vh;
     font-size: 3rem;
     font-weight: bold;
-    font-color: red;
+    color: rgb(150, 0, 0);
    
 }
 h2 {
