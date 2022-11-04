@@ -3,9 +3,19 @@ body {
     color: #ffffff;
 }
 
-.bg-black {
-    background-color: #7D8289 !important;
+.bg-green {
+    background-color: #073f02 !important;
 }
+
+.bg-brown {
+    background-color: #36290b !important;
+}
+
+.alert {
+    background-color: #a86d00; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
 
 .sidebar h1 {
     font-size: 1.5rem;
@@ -17,7 +27,7 @@ body {
 
 
 .sidebar {
-    background-color: #2E3440 !important;
+    background-color: #36290b !important;
 }
 
 @media (min-width: 768px) {
@@ -109,39 +119,44 @@ h6 {
 
 #fight {
     color: #ffffff;
-    background-color: #2E3440;
+    background-color: #36290b;
 }
 
 #language {
 
     color: #ffffff;
-    background-color: #2E3440;
+    background-color: #36290b;
 }  
 
 #facts {
     
-    background-color: #2E3440;
+    background-color: #36290b;
     font-size: 1.4rem;
     color: #ffffff;
 }
 
 #credits {
-    background-color: #2E3440;
+    background-color: #36290b;
 
 }
 
 #history {
     color: #ffffff;
-    background-color: #2E3440;
+    background-color: #36290b;
 }
 
 #legends {
     color: #ffffff;
-    background-color: #2E3440;
+    background-color: #36290b;
 }
 
 footer{
- background-color: #343A3F;
+ background-color: #36290b;
  color:#ffffff;
  text-align: end;
+}
+
+
+img {
+    margin: 1px 20px 10px 20px;
 }
